@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://voe31.com/">
-    <img src="https://github.com/user-attachments/assets/1797d8f2-8e38-4fed-9703-19d6fe9e1a32" alt="Voe Ai — Veo 3.1 AI video generator with first and last frame control" width="100%">
+    <img src="https://file.voe31.com/marketing/github/veo31-homepage-hero.jpg" alt="Voe Ai — Veo 3.1 AI video generator with first and last frame control" width="100%">
   </a>
 
   <h1>Veo 3.1 AI Video Generator</h1>
